@@ -6,3 +6,4 @@ stage files for commit using git add <file_name> or git add .
 Commit your changes with git commit -m "Your commit message" 
 the commit history using git log
 new branch with git branch <branch_name>
+git remote add remote_name remote_path  -- to add a new repository
