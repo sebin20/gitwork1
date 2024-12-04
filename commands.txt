@@ -1,3 +1,8 @@
 list details   git config --list
 initialize a repository with -- git init 
 clone an existing one using -- git clone <repository_url>.
+status of untracked files-- git status
+stage files for commit using git add <file_name> or git add .
+Commit your changes with git commit -m "Your commit message" 
+the commit history using git log
+new branch with git branch <branch_name>
