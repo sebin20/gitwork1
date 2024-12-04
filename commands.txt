@@ -1,0 +1,3 @@
+list details   git config --list
+initialize a repository with -- git init 
+clone an existing one using -- git clone <repository_url>.
